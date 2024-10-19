@@ -192,7 +192,7 @@
 
    **[University of California, San Diego, PhD in Sociology](https://sociology.ucsd.edu/graduate/admissions.html)** ([Kevin Lewis](https://www.kevinlewis-sociology.com/))
 
-   **[University of California, Irvine, PhD in Sociology](https://www.sociology.uci.edu/grad/phd/admissions.php)** ([Carter Butts](https://engineering.uci.edu/users/carter-butts))
+   **[University of California, Irvine, PhD in Sociology](https://www.sociology.uci.edu/grad/phd/admissions.php)** ([Carter Butts](https://engineering.uci.edu/users/carter-butts)), [David Schaefer](https://sites.google.com/site/drschaef/))
 
    **[University of California, Los Angeles, PhD in Communications](https://comm.ucla.edu/graduate/program/)** ([Homa Hosseinmardi](https://homahm.github.io/), [Jungseok Joo](https://www.jsjoo.com/))
 
